@@ -1,4 +1,4 @@
-# Forward Chaning dan Backward Chaning Sistem Pakar
+# Forward Chaining dan Backward Chaining Sistem Pakar
 
 ## Anggota 
 - Jefri Wahyu Fernando Sembiring_123140206
